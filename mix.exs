@@ -4,7 +4,7 @@ defmodule DroneElixirExample.Mixfile do
   def project do
     [ app: :drone_elixir_example,
       version: "0.0.1",
-      elixir: "~> 0.12.5",
+      elixir: "~> 0.12.0",
       deps: deps ]
   end
 
